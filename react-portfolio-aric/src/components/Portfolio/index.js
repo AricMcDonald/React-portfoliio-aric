@@ -3,7 +3,7 @@ import Work from '../Work';
 import image from '../../assets/images/circitorigin.jpg';
 import marvelproject from '../../assets/images/marvelscreenshot1.png'
 import statstracker from '../../assets/images/stattracker.jpg'
-import gamerslinkup from '../../assets/images/gamerslinkup'
+import gamerslinkup from '../../assets/images/gamerslinkup.jpg'
 function Portfolio(props) {
     return (
         <div>

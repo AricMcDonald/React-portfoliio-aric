@@ -5,8 +5,8 @@ import './App.css';
 import Nav from './components/Nav'
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
-import Resume from './components/Resume/Resume';
-import About from './components/About/about';
+import Resume from './components/Resume';
+import About from './components/About';
 function App() {
   const [currentPage, setCurrentPage] = useState('');
   const handlePageChange = (page) => setCurrentPage(page)

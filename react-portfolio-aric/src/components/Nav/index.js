@@ -6,7 +6,7 @@ function Nav({currentPage, handlePageChange}) {
     return (
         <header className='flex-row space-between px-1' style={{display: 'flex',justifyContent: 'space-between'}}>
             <h2>
-                <a>A.M</a> 
+                <a>Aric McDonald</a> 
             </h2>
             <nav>
                 <ul className='flex-row' style={{listStyle: 'none', display: 'flex', justifyContent: 'space-between'}}>
