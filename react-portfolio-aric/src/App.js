@@ -5,7 +5,8 @@ import './App.css';
 import Nav from './components/Nav'
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
-
+import Resume from './components/Resume/Resume';
+import About from './components/About/about';
 function App() {
   const [currentPage, setCurrentPage] = useState('');
   const handlePageChange = (page) => setCurrentPage(page)
@@ -20,6 +21,8 @@ function App() {
       <Routes>
         <Route exact path='/contact' element={<Contact/>}/>
         <Route exact path='/portfolio' element={<Portfolio/>}/>
+        <Route exact path='/resume' element={<Resume/>}/>
+        <Route exact path='/about' element={<About/>}/>
       </Routes>
     </div>
     </Router>
