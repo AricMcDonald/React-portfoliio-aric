@@ -7,7 +7,7 @@ import gamerslinkup from '../../assets/images/gamerslinkup.jpg'
 import './style.css';
 function Portfolio(props) {
     return (
-        <div>
+        <div className='boxer'>
             <Work
             name='Marvel Project'
             repoLink='https://github.com/lilslash/MarvelProject'
