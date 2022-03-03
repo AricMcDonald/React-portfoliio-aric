@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-portfoliio-aric/static/css/main.2006d035.css",
+    "main.js": "/React-portfoliio-aric/static/js/main.35230ea9.js",
+    "static/js/787.cba99d11.chunk.js": "/React-portfoliio-aric/static/js/787.cba99d11.chunk.js",
+    "static/media/stattracker.jpg": "/React-portfoliio-aric/static/media/stattracker.4516e49e3c227a73f758.jpg",
+    "static/media/marvelscreenshot1.png": "/React-portfoliio-aric/static/media/marvelscreenshot1.a31f9273cd884e0f8b35.png",
+    "static/media/gamerslinkup.jpg": "/React-portfoliio-aric/static/media/gamerslinkup.3de489e1ad8200195d32.jpg",
+    "static/media/circitorigin.jpg": "/React-portfoliio-aric/static/media/circitorigin.efadca39ee1ebb7a3cb0.jpg",
+    "static/media/AricResume.docx": "/React-portfoliio-aric/static/media/AricResume.908a88ab1b91937be271.docx",
+    "index.html": "/React-portfoliio-aric/index.html",
+    "main.2006d035.css.map": "/React-portfoliio-aric/static/css/main.2006d035.css.map",
+    "main.35230ea9.js.map": "/React-portfoliio-aric/static/js/main.35230ea9.js.map",
+    "787.cba99d11.chunk.js.map": "/React-portfoliio-aric/static/js/787.cba99d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2006d035.css",
+    "static/js/main.35230ea9.js"
+  ]
+}
