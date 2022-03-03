@@ -4,6 +4,7 @@ import image from '../../assets/images/circitorigin.jpg';
 import marvelproject from '../../assets/images/marvelscreenshot1.png'
 import statstracker from '../../assets/images/stattracker.jpg'
 import gamerslinkup from '../../assets/images/gamerslinkup.jpg'
+import './style.css';
 function Portfolio(props) {
     return (
         <div>

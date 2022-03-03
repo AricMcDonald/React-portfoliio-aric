@@ -1,0 +1,5 @@
+.head {
+    background-color: coral;
+    background-image: radial-gradient(coral 30%, rgb(7, 7, 7));
+    box-shadow: 0 10px 20px -8px rgba(0, 0, 0,.7);
+}
